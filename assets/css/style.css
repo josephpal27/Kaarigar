@@ -155,6 +155,9 @@ nav img{
     justify-content: center;
     align-items: center;
 }
+.banner .banner-text #carouselExampleRide .carousel-item .text-layer .location-box .location a{
+    text-decoration: none;
+}
 .banner .banner-text #carouselExampleRide .carousel-item .text-layer .location-box .location p{
     font-size: 1.3rem;
     font-weight: 700;
